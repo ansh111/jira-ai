@@ -1,0 +1,11 @@
+jira
+streamlit 
+requests
+python-dotenv
+langchain-groq
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+faiss-cpu
+sentence-transformers

@@ -20,7 +20,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 load_dotenv()
 
-# Constants
+#  Constants
 JIRA_MAX_DATA_LIMIT = 2500
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
